@@ -8,7 +8,7 @@
   "_from": "react-native-secharts-pro@1.1.0",
   "_id": "react-native-secharts-pro@1.1.0",
   "_inBundle": false,
-  "_integrity": "sha1-Dc0VBPhzx/HUD/9IZmuur3Tm48Y=",
+  "_integrity": "sha512-SUX5Myv1ukfjv[...]WOgmzv8jpoICA==",
   "_location": "/react-native-secharts-pro",
   "_phantomChildren": {},
   "_requested": {
@@ -24,7 +24,7 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npm.taobao.org/react-native-secharts-pro/download/react-native-secharts-pro-1.1.0.tgz",
+  "_resolved": "https://registry.npmjs.org/react-native-secharts-pro/download/react-native-secharts-pro-1.1.0.tgz",
   "_spec": "1.1.0",
   "_where": "/Users/zhangguosu/Desktop/MergeBoth/fqbApp/fullgoalApp",
   "author": {
@@ -47,7 +47,7 @@
   ],
   "license": "MIT",
   "main": "main/dist/index.js",
-  "name": "react-native-secharts",
+  "name": "react-native-secharts-pro",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jiangsongh/react-native-secharts-pro"
